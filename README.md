@@ -1,3 +1,3 @@
 
 
-run npm run start start the project
+run `npm run start` to start the project
